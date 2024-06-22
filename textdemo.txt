@@ -1,0 +1,1 @@
+hi this is the next task named texteditor.py where we can type some contents in it!. :)
